@@ -20,4 +20,4 @@ Se desejar, adicione imagens da planilha funcionando na pasta `/images`.
 - Formatação condicional e automações simples
 
 ## ✍️ Autor
-Cássia Gabriela Gonçalves da Paixão
+cassiap
